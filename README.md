@@ -1,18 +1,9 @@
 <!--img src='https://avatars.githubusercontent.com/u/34423757?v=4' width="20%"-->
 
-# Hey, I'm Will 👋
+# Howdy, I'm Salome aka Sam 👋
+## Data Analytics & Visualization Specialist 📊
+My favorite tools are Tableau, Alteryx, Python, and SQL 
 
-<img align="right" src="https://github.com/wjsutton/wjsutton.github.io/blob/master/assets/img/hero-no-background.png?raw=true" alt="Will Sutton" width="20%">
-
-A Data Analytics & Visualisation Expert 📈
-
-I bring data to life with:
-- Tableau
-- SQL
-- Python
-
-<br>
-<br>
 <br>
 
 ## ⭐ Data Viz Projects
@@ -117,19 +108,11 @@ I’m always open to connecting with fellow data enthusiasts, discussing challen
            
 <img src="https://github.com/wjsutton/wjsutton.github.io/blob/master/assets/img/work_timeline.png?raw=true">
 
-## Awards & Certifications
+## Certifications
 
-<a href="https://www.tableau.com/en-gb/blog/iron-viz-2022-championship">
-  <img src="https://github.com/wjsutton/wjsutton.github.io/blob/master/assets/img/WillSutton_IV2022.jpg?raw=true" width="40%" align="right">
-</a>
 
 ### Iron Viz Champion 2022
 
-I travelled to Las Vegas to compete in the largest data visualization contest globally, Tableau's Iron Viz competition. The final round required presenting a 20-minute Tableau dashboard before a live audience of 5,000 and a global streaming audience.
-
-This year's theme focused on visualizing the impact of education worldwide. Leveraging animations, parameters, and map background images, I crafted a presentation-style visualization to effectively communicate my analysis.
-            
-<a href="https://youtu.be/cIwCJ2V-KX8?si=G2XwUdSpWcwtk3gE">📺 Watch the final on YouTube</a>
 
 ### Certifications
 
@@ -158,11 +141,9 @@ This year's theme focused on visualizing the impact of education worldwide. Leve
 
 You can find me on the following social media sites
 
-- [LinkedIn](https://www.linkedin.com/in/will-sutton-14711627/)
-- [X FKA Twitter](https://twitter.com/WJSutton12)
-- [Instagram](https://www.instagram.com/data.gram/)
-- [YouTube](https://www.youtube.com/channel/UC3N21EOGbnVX5duBlfDCpng)
-- [GitHub](https://github.com/wjsutton)
+- [LinkedIn](https://www.linkedin.com/in/sgrasland/))
+- [The Information Lab] 
+- [GitHub](https://github.com/SSGrasland))
 
 
 
