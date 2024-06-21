@@ -2,7 +2,7 @@
 
 # Howdy, I'm Salome aka Sam 👋
 ## Data Analytics & Visualization Specialist 📊
-## Tableau | Alteryx | Python | SQL 
+## [Tableau](https://public.tableau.com/app/profile/salome.grasland/vizzes) | [Alteryx](https://community.alteryx.com/t5/user/viewprofilepage/user-id/530987) | [Python](https://github.com/SSGrasland/Modeling-Hurricane-Impact-on-Florida-Real-Estate-Value-/blob/main/notebooks/0.PresentationNotebook.ipynb) | [SQL](https://github.com/SSGrasland/SQL/tree/main)
 
 <br>
 
